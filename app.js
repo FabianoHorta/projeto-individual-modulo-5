@@ -15,5 +15,5 @@ while(inputPropriedade !== "SAIR"){
 listaPropriedadesCss.pop();
 listaPropriedadesCss.sort();
 for(var i = 0; i < listaPropriedadesCss.length; i++){
-    console.log(chalk.blue(listaPropriedadesCss[i]));
+    console.log(chalk.green(listaPropriedadesCss[i]));
 }
