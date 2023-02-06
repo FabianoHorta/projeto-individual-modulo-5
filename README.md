@@ -1,5 +1,5 @@
 
-# Projeto Resília (Ordenador de propriedades CSS)
+# Projeto Resilia (Ordenador de propriedades CSS)
 
 Abaixo estará descrito o passo a passo para executar o ordenador.
 
