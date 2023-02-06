@@ -14,5 +14,4 @@ node app.js
 Após isso digite as propriedades CSS que quiser, quando quiser parar para visualizar as propriedades em ordem alfabética, só precisa digitar SAIR (tudo em maiúsculo) no terminal.
 
 
-Autor,
-Fabiano Almeida.
+Autor Fabiano Almeida.
